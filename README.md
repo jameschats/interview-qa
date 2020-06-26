@@ -1,2 +1,2 @@
 # interview-qa
-Interview Question and Answers (Angular)
+Angular Interview Question and Answers - PART 1
